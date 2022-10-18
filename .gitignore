@@ -75,3 +75,6 @@ crashlytics-build.properties
 /WebGL Builds
 /connectwebgl.zip
 /webgl_sharing
+
+# A marker file of which existence is used to decide whether to run the first-launch experience, for example show the welcome dialog.
+InitCodeMarker
